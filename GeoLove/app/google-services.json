@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "597440783894",
+    "firebase_url": "https://sugarandcoffe-2c13b.firebaseio.com",
+    "project_id": "sugarandcoffe-2c13b",
+    "storage_bucket": "sugarandcoffe-2c13b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597440783894:android:a6ff5ac330edec6b45f737",
+        "android_client_info": {
+          "package_name": "com.today.geolove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597440783894-52kbc62m3rnqm4djrip72o84b0vih730.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.today.geolove",
+            "certificate_hash": "870a5f4e0b029147a37fdaad9172094be6fe39a0"
+          }
+        },
+        {
+          "client_id": "597440783894-d5m5smt8q8sa0s79444nol8235kg7vjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VHYK97FteU6Ejy04bYljf2tHDgkIzZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597440783894-d5m5smt8q8sa0s79444nol8235kg7vjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
